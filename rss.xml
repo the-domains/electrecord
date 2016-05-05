@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Coloana sonora a Romaniei]]></title>
         <description><![CDATA[Coloana sonora a Romaniei]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/electrecord/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 13:04:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 05 May 2016 13:05:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/electrecord/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe217491-4949-4d8a-874c-83a9d027bbb0.jpg">]]></description>
+            <link>https://thegrid.ai/electrecord/stiati-ca/index.html</link>
+            <guid isPermaLink="false">73683a66-8a03-4a91-883f-5dda9039466a</guid>
+            <pubDate>Thu, 05 May 2016 13:05:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1072ebdf-4504-428d-b741-20d950d79f1a.jpg">]]></description>
-            <link>undefinedstiati-ca/index.html</link>
+            <link>https://thegrid.ai/electrecord/stiati-ca/index.html</link>
             <guid isPermaLink="false">771e63d4-fdd7-4733-b952-85688bf0e55e</guid>
             <pubDate>Thu, 05 May 2016 13:04:43 GMT</pubDate>
         </item>
