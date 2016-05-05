@@ -1,0 +1,28 @@
+name: Electrecord
+favicon: null
+layout_spectrum: 0.7228657465893775
+typography_spectrum: 0.26462895469740033
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.2599711597431451
+  lightness: 0.22352695558220148
+  saturation: 0.24531683349050581
+  rhythmicContrast: 0.10089748771861196
+purpose: []
